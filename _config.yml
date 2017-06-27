@@ -1,0 +1,47 @@
+google_maps_api_key: AIzaSyBm2DXwUKvbnRTgoBHaJ3LKuNJi_atHfKc
+
+plugins_dir:
+  - _plugins-core
+  - _plugins
+
+layouts_dir:
+  - _ttio_templates/bedrock/_layouts
+  - _ttio_templates/express-multi/layouts
+  - _layouts
+  
+data_dir: 
+  - _ttio_templates/bedrock/_data
+  - _ttio_templates/express-multi/data
+  - _data
+  
+includes_dir:
+  - _includes
+  - _ttio_templates/express-multi/includes
+  - _ttio_templates/bedrock/_includes
+  
+sass:
+  compress: true
+
+# Site settings
+baseurl: ""
+permalink: pretty
+default_lang: 'en'
+languages: ['en']
+
+
+# Build settings
+markdown: kramdown
+
+include:
+  - _pages
+
+exclude:
+  - 'sitemap.json'
+  - 'models.json'
+  - 'media.json'
+  - 'old_media.json'
+  - 'assets'
+  - 'ttio_templates'
+
+keep_files: ['assets', 'ttio_templates/bedrock/assets', 'ttio_templates/express-multi/assets']
+rsync_copy: ['_assets', '_ttio_templates/bedrock/_assets', '_ttio_templates/express-mutil/assets']
