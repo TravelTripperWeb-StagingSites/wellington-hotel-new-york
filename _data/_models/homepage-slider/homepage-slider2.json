@@ -1,0 +1,10 @@
+{
+  "name": "City View",
+  "image": {
+    "url": "/assets/images/city-view.jpg",
+    "url_large": "",
+    "url_medium": "",
+    "alt_text": "City View"
+  },
+  "order": 2
+}

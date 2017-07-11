@@ -1,0 +1,10 @@
+{
+  "name": "Tower Bridge",
+  "image": {
+    "url": "/assets/images/tower-bridge.jpg",
+    "url_large": "",
+    "url_medium": "",
+    "alt_text": "Tower Bridge at night"
+  },
+  "order": 3
+}

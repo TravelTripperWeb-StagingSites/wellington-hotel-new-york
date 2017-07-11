@@ -1,0 +1,11 @@
+en:
+  footer:
+    address_header: Address
+    contact_header: Contact
+    phone_label: T
+    email_label: E
+    newsletter_header: Newsletter
+    newsletter_input_placeholder: Your email address
+  brg:
+    label: Best Rate
+    tonights_rate: Tonight's Rate

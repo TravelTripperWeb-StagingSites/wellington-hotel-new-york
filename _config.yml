@@ -36,6 +36,7 @@ include:
   - _pages
 
 exclude:
+  - '_assets'
   - 'sitemap.json'
   - 'models.json'
   - 'media.json'
@@ -44,4 +45,4 @@ exclude:
   - 'ttio_templates'
 
 keep_files: ['assets', 'ttio_templates/bedrock/assets', 'ttio_templates/express-multi/assets']
-rsync_copy: ['_assets', '_ttio_templates/bedrock/_assets', '_ttio_templates/express-mutil/assets']
+rsync_copy: ['_assets', '_ttio_templates/bedrock/_assets', '_ttio_templates/express-multi/assets']
