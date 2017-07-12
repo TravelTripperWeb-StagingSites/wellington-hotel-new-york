@@ -13,5 +13,5 @@ address:
   zip_code: "10017"
   
 _hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: demo #24northhotel, demo, demohotel
+_portal_id: 24northhotel #24northhotel, demo, demohotel
   

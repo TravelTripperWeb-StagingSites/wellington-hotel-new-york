@@ -1,0 +1,11 @@
+{
+  "name": "The Fancy Restaurant",
+  "tagline": "Join us for dinner",
+  "description": "<p>Info about the restaurant</p>",
+  "image": {
+    "url": "/assets/stock_images/breakfast.jpg"
+  },
+  "menu_url": "http://www.google.com",
+  "reservations_url": "http://www.google.com",
+  "order": 1
+}

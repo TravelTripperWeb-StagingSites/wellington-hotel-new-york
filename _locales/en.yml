@@ -9,3 +9,11 @@ en:
   brg:
     label: Best Rate
     tonights_rate: Tonight's Rate
+  dining:
+    buttons:
+      make_a_reservation: Make A Reservation
+      view_menu: View Menu
+      view_all: View All Dining Options
+  offers:
+    buttons:
+      book_now: Book Offer

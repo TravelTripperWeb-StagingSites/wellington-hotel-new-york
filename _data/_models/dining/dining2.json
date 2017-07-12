@@ -1,0 +1,11 @@
+{
+  "name": "The Bar",
+  "tagline": "Have a drink with us",
+  "description": "<p>Info about the bar</p>",
+  "image": {
+    "url": "/assets/stock_images/outdoor-restaurant.jpg"
+  },
+  "menu_url": "http://www.google.com",
+  "reservations_url": "",
+  "order": 2
+}
