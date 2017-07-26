@@ -6,3 +6,9 @@ old_media.json
 media.json
 sitemap.json
 _site/
+
+sitemap.json
+media.json
+old_media.json
+models.json
+_site/*
