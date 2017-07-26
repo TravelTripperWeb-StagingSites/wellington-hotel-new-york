@@ -1,17 +1,16 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+---
+latitude: 40.76446
+longitude: -73.98082
+name: Wellington Hotel
+email: victor@traveltripper.com
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "New York"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: 24northhotel #24northhotel, demo, demohotel
-  
+  street1: 871 Seventh Ave
+  street2: ''
+  state: New York
+  city: New York
+  country: United States
+  zip_code: '10019'
+_hotel_id: WEL028
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
